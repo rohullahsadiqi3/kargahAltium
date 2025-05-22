@@ -1,0 +1,73 @@
+Added Component: Designator=D1(LED3MM)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "2.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "LED3MM"; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED3MM)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "2.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "LED3MM"; VariantName = "[No Variations]"
+Added Component: Designator=D3(LED3MM)
+Add component (AddParameter): Name = "ASSEMBLY"; Value = "ASSEMBLY"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DESC"; Value = "DESCRIPTION"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF"; Value = "MANF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "MANF_PART#"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM2"; Value = "2.2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PRICE"; Value = "PRICE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "LED3MM"; VariantName = "[No Variations]"
+Added Component: Designator=J1(JAC_PWR1)
+Add component (AddParameter): Name = "MANF"; Value = "CUI STACK"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MANF_P#"; Value = "PJ-031CH, PJ-031C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PARAM"; Value = "CH 3A, C 2A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = "DC_POWER_JACK"; VariantName = "[No Variations]"
+Added Component: Designator=R1(Resistor_0.25w-0.3)
+Add component (AddParameter): Name = "Email"; Value = "razi.vesali@gmail.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for puplic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jun-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Seyed Razi Vesali"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R2(Resistor_0.25w-0.3)
+Add component (AddParameter): Name = "Email"; Value = "razi.vesali@gmail.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for puplic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jun-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Seyed Razi Vesali"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R3(Resistor_0.25w-0.3)
+Add component (AddParameter): Name = "Email"; Value = "razi.vesali@gmail.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for puplic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "17-Jun-2016"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Seyed Razi Vesali"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D1-2
+Added Pin To Net: NetName=GND Pin=D2-2
+Added Pin To Net: NetName=GND Pin=D3-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=J1-3
+Added Net: Name=GND
+Added Pin To Net: NetName=NetD1_1 Pin=D1-1
+Added Pin To Net: NetName=NetD1_1 Pin=R1-2
+Added Pin To Net: NetName=NetD1_1 Pin=R2-1
+Added Net: Name=NetD1_1
+Added Pin To Net: NetName=NetD2_1 Pin=D2-1
+Added Pin To Net: NetName=NetD2_1 Pin=R2-2
+Added Pin To Net: NetName=NetD2_1 Pin=R3-1
+Added Net: Name=NetD2_1
+Added Pin To Net: NetName=NetD3_1 Pin=D3-1
+Added Pin To Net: NetName=NetD3_1 Pin=R3-2
+Added Net: Name=NetD3_1
+Added Pin To Net: NetName=VCC Pin=J1-1
+Added Pin To Net: NetName=VCC Pin=R1-1
+Added Net: Name=VCC
+Added Class: Name=Sheet1
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
